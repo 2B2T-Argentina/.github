@@ -1,12 +1,10 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+### Hi there, I'm 2B2T Argentina 👋
+   2builders2tools Argentina es un servidor de Minecraft con el objetivo de nunca reiniciar el mundo en un entorno pvp libre para todos, sin reglas, con pocas modificaciones en el modo de juego de supervivencia vainilla. el mundo es 0 años 7 mes old, con un tamaño de +44 00 GBs y más +4237 Jugadores que visitan al menos una vez.
+  
+📫 My Discord: **PistonCube#0001**<br /><br/>
+📫 [Discord](https://www.2b2t.com.ar/discord/)
+**🌐 Website: [2b2t.com.ar](https://www.2b2t.com.ar/)**
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
