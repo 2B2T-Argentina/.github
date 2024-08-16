@@ -5,6 +5,6 @@
   
 📫 My Discord: **PistonCube#0001**<br /><br/>
 📫 [Discord](https://www.2b2t.net.ar/discord/)
-**🌐 Website: [2b2t.com.ar](https://www.2b2t.net.ar/)**
+**🌐 Website: [2b2t.net.ar](https://www.2b2t.net.ar/)**
 
 </div>
